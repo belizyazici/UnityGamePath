@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\bin\Debug\net7.0\Variables.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\bin\Debug\net7.0\Variables.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\bin\Debug\net7.0\Variables.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\bin\Debug\net7.0\Variables.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\bin\Debug\net7.0\Variables.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\refint\Variables.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\Variables.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Variables\obj\Debug\net7.0\ref\Variables.dll
