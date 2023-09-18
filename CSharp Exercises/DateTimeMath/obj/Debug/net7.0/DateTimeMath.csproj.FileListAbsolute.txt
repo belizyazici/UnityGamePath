@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\bin\Debug\net7.0\DateTimeMath.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\bin\Debug\net7.0\DateTimeMath.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\bin\Debug\net7.0\DateTimeMath.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\bin\Debug\net7.0\DateTimeMath.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\bin\Debug\net7.0\DateTimeMath.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\refint\DateTimeMath.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\DateTimeMath.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\DateTimeMath\obj\Debug\net7.0\ref\DateTimeMath.dll
