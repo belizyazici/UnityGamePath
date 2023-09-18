@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
