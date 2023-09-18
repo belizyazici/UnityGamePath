@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\bin\Debug\net7.0\ForLoop.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\bin\Debug\net7.0\ForLoop.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\bin\Debug\net7.0\ForLoop.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\bin\Debug\net7.0\ForLoop.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\bin\Debug\net7.0\ForLoop.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\refint\ForLoop.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ForLoop.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\ForLoop\obj\Debug\net7.0\ref\ForLoop.dll
