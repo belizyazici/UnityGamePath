@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\bin\Debug\net7.0\AlgorithmHomework.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\bin\Debug\net7.0\AlgorithmHomework.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\bin\Debug\net7.0\AlgorithmHomework.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\bin\Debug\net7.0\AlgorithmHomework.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\bin\Debug\net7.0\AlgorithmHomework.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\refint\AlgorithmHomework.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\AlgorithmHomework.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AlgorithmHomework\obj\Debug\net7.0\ref\AlgorithmHomework.dll
