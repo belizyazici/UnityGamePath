@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\bin\Debug\net7.0\IfElseIf.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\bin\Debug\net7.0\IfElseIf.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\bin\Debug\net7.0\IfElseIf.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\bin\Debug\net7.0\IfElseIf.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\bin\Debug\net7.0\IfElseIf.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\refint\IfElseIf.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\IfElseIf.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\IfElseIf\obj\Debug\net7.0\ref\IfElseIf.dll
