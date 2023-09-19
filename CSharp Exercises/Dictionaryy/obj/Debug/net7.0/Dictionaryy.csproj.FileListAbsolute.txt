@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\bin\Debug\net7.0\Dictionaryy.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\bin\Debug\net7.0\Dictionaryy.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\bin\Debug\net7.0\Dictionaryy.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\bin\Debug\net7.0\Dictionaryy.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\bin\Debug\net7.0\Dictionaryy.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\refint\Dictionaryy.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\Dictionaryy.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Dictionaryy\obj\Debug\net7.0\ref\Dictionaryy.dll
