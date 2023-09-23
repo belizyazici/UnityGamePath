@@ -12,7 +12,7 @@ namespace CollectionsQuestion3
 
             char[] vowels = { 'a', 'e', 'ı', 'i', 'o', 'ö', 'u', 'ü' };
 
-            // Create a list to store vowels
+            //creating a list to store vowels
             var vowelList = new System.Collections.Generic.List<char>();
 
             foreach (char c in input)
@@ -23,7 +23,7 @@ namespace CollectionsQuestion3
                 }
             }
 
-            // Convert the list to an array
+            //converting the list to an array
             char[] vowelArray = vowelList.ToArray();
 
             Console.WriteLine("Vowels in the sentence: " + string.Join(", ", vowelArray));
