@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\bin\Debug\net7.0\TheStruct.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\bin\Debug\net7.0\TheStruct.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\bin\Debug\net7.0\TheStruct.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\bin\Debug\net7.0\TheStruct.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\bin\Debug\net7.0\TheStruct.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\refint\TheStruct.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\TheStruct.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\TheStruct\obj\Debug\net7.0\ref\TheStruct.dll
