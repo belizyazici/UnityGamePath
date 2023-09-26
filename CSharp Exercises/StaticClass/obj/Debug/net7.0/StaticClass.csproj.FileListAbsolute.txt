@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\bin\Debug\net7.0\StaticClass.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\bin\Debug\net7.0\StaticClass.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\bin\Debug\net7.0\StaticClass.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\bin\Debug\net7.0\StaticClass.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\bin\Debug\net7.0\StaticClass.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\refint\StaticClass.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\StaticClass.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\StaticClass\obj\Debug\net7.0\ref\StaticClass.dll
