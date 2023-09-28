@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
