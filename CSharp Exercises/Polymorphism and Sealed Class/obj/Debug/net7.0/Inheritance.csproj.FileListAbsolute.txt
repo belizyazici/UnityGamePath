@@ -1,0 +1,28 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\bin\Debug\net7.0\Inheritance.exe
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\bin\Debug\net7.0\Inheritance.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\bin\Debug\net7.0\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\bin\Debug\net7.0\Inheritance.pdb
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.pdb
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\Polymorphism and Sealed Class\obj\Debug\net7.0\ref\Inheritance.dll
