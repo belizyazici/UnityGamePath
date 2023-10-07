@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\bin\Debug\net7.0\AAContactsApp.exe
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\bin\Debug\net7.0\AAContactsApp.deps.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\bin\Debug\net7.0\AAContactsApp.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\bin\Debug\net7.0\AAContactsApp.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\bin\Debug\net7.0\AAContactsApp.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\refint\AAContactsApp.dll
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.pdb
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\AAContactsApp.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\CSharpExercises\AAContactsApp\obj\Debug\net7.0\ref\AAContactsApp.dll
